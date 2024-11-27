@@ -22,6 +22,3 @@ PRESENTATION VISUALS:
 ![Alt text](https://github.com/KiranDatta16/AtliQ_Hardware_Insights/blob/d699535ea0e8fe1b4e002c432d84f884b75471a7/Screenshot%20(88).png)
 
 ![Alt text](https://github.com/KiranDatta16/AtliQ_Hardware_Insights/blob/61de1d4e098b8e932452fab86a17748de6aee0bd/Screenshot%20(89).png)
-----------------------------------------------------------
-Microsoft Power BI  is used to create visuals for the ad-hoc requests. Also, an insight for each of the ad-hoc question was also presented in the ppt.
----------------------------------
