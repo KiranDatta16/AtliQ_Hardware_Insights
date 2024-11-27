@@ -18,7 +18,7 @@ Imagine yourself as the applicant for this role and perform the following task
 ----------------------------------------------------------
 PRESENTATION IMAGES:
 
-![Alt text](Screenshot (88).png)
+![Alt text](https://github.com/KiranDatta16/AtliQ_Hardware_Insights/blob/d699535ea0e8fe1b4e002c432d84f884b75471a7/Screenshot%20(88).png)
 
 ----------------------------------------------------------
 Microsoft Power BI  is used to create visuals for the ad-hoc requests. Also, an insight for each of the ad-hoc question was also presented in the ppt.
