@@ -18,7 +18,7 @@ Imagine yourself as the applicant for this role and perform the following task
 ----------------------------------------------------------
 PRESENTATION IMAGES:
 
-
+![Alt text](Screenshot (88).png)
 
 ----------------------------------------------------------
 Microsoft Power BI  is used to create visuals for the ad-hoc requests. Also, an insight for each of the ad-hoc question was also presented in the ppt.
