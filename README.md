@@ -16,10 +16,12 @@ Imagine yourself as the applicant for this role and perform the following task
 2.    You need to run a SQL query to answer these requests. 
 3.    The target audience of this dashboard is top-level management - hence you need to create a presentation to show the insights.
 ----------------------------------------------------------
-PRESENTATION IMAGES:
+PRESENTATION VISUALS:
+-------------------------------------------------------
 
 ![Alt text](https://github.com/KiranDatta16/AtliQ_Hardware_Insights/blob/d699535ea0e8fe1b4e002c432d84f884b75471a7/Screenshot%20(88).png)
 
+![Alt text]()
 ----------------------------------------------------------
 Microsoft Power BI  is used to create visuals for the ad-hoc requests. Also, an insight for each of the ad-hoc question was also presented in the ppt.
 ---------------------------------
