@@ -31,5 +31,7 @@ Contribution:
 3.  Contributed to significant operational cost reductions through data-driven decision support.
 
 ----------------------------------------
-
+Key Learnings:
+1. CTEs and Joins
+2. 
 
