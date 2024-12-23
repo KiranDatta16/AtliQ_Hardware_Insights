@@ -26,9 +26,9 @@ PRESENTATION VISUALS:
 --------------------------------------------------------------------
 Contribution:
 --------------------------------------------------
-•	Fulfilled 10 ad-hoc data requests from management by executing SQL queries on the company database and built visualizations using Power BI. 
-•	SUggested insights to effectively communicate key findings. 
-•	Contributed to significant operational cost reductions through data-driven decision support.
+1.  Fulfilled 10 ad-hoc data requests from management by executing SQL queries on the company database and built visualizations using Power BI.
+2.  Suggested insights to effectively communicate key findings.
+3.  Contributed to significant operational cost reductions through data-driven decision support.
 
 ----------------------------------------
 
