@@ -24,7 +24,11 @@ PRESENTATION VISUALS:
 ![Alt text](https://github.com/KiranDatta16/AtliQ_Hardware_Insights/blob/61de1d4e098b8e932452fab86a17748de6aee0bd/Screenshot%20(89).png)
 
 --------------------------------------------------------------------
+Contribution:
+--------------------------------------------------
 •	Fulfilled 10 ad-hoc data requests from management by executing SQL queries on the company database and built visualizations using Power BI. 
 •	suggested insights to effectively communicate key findings. 
 •	Contributed to significant operational cost reductions through data-driven decision support.
+----------------------------------------
+
 
